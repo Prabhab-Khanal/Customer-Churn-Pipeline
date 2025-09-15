@@ -27,7 +27,7 @@ customer_churn_pipeline/
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. **Ingest Data**
 
@@ -66,9 +66,9 @@ customer_churn_pipeline/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-````bash
+```bash
 git clone <your-repo-url>
 cd customer_churn_pipeline
 
@@ -80,11 +80,12 @@ venv\Scripts\activate       # Windows
 # Install dependencies
 pip install -r requirements.txt
 
+```
 
-
-## ▶️ Usage
+## Usage
 
 ### Run full pipeline
+
 ```bash
 python src/flow.py
 python src/ingest.py
@@ -92,8 +93,9 @@ python src/transform.py
 python src/train.py
 python src/predict.py
 python src/query_predictions.py
+```
 
-## 📊 Dataset
+## Dataset
 
 - **Name:** Telco Customer Churn Dataset
 - **Records:** 7,043 customers
@@ -102,7 +104,7 @@ python src/query_predictions.py
 
 ---
 
-## 📌 Features
+## Features
 
 - End-to-end modular ML pipeline
 - Multiple models: Logistic Regression, RandomForest, XGBoost
@@ -112,5 +114,6 @@ python src/query_predictions.py
 
 ---
 
+```
 
-````
+```

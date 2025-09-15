@@ -77,7 +77,7 @@ customer_churn_pipeline/
 ##  Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Prabhab-Khanal/Customer-Churn-Pipeline.git
 cd customer_churn_pipeline
 
 # Create virtual environment

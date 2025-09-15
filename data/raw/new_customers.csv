@@ -1,0 +1,6 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+1111-AAAAA,Male,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,75.50,900.00
+2222-BBBBB,Female,1,No,Yes,48,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),60.00,2800.00
+3333-CCCCC,Female,0,Yes,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.25,225.00
+4444-DDDDD,Male,1,No,No,30,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),89.00,2670.00
+5555-EEEEE,Female,0,No,Yes,2,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.95,59.90
